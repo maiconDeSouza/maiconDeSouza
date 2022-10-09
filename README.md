@@ -79,7 +79,7 @@
             />
             <img 
                 height="150rem" 
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconDeSouza&layout=compact&langs_count=7&theme=dracula"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconDeSouza&layout=compact&langs_count=10&theme=dracula"
             />
           </div>
     </section>
