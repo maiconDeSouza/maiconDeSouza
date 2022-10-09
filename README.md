@@ -74,11 +74,11 @@
         <div align="center">
             <a href="https://github.com/MaiconDeSouza">
             <img 
-                height="180em" 
+                height="150rem" 
                 src="https://github-readme-stats.vercel.app/api?username=maiconDeSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
             />
             <img 
-                height="180em" 
+                height="150rem" 
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconDeSouza&layout=compact&langs_count=7&theme=dracula"
             />
           </div>
