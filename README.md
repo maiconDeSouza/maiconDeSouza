@@ -110,6 +110,7 @@
             />
           </div>
     </section>
+    <hr />
     <section>
         <div>
             <img 
