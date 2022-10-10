@@ -44,6 +44,33 @@
             <li>
                 <img 
                     align="center" 
+                    alt="Maicon-VueJS" 
+                    width="15" 
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+                />
+                <span>Alguns projetos Feitos com Framework VueJS 2.</span>
+            </li>
+            <li>
+                <img 
+                    align="center" 
+                    alt="Maicon-EJS" 
+                    width="15" 
+                    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/icones/ejs.png"
+                />
+                <span>Também já utiliziei o EJS para gerar front a partir do servidor.</span>
+            </li>
+            <li>
+                <img 
+                    align="center" 
+                    alt="Maicon-Sass" 
+                    width="15" 
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                />
+                <span>Atualmente estou estudando um pouco de Sass.</span>
+            </li>
+            <li>
+                <img 
+                    align="center" 
                     alt="Maicon-React" 
                     width="15" 
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -114,6 +141,30 @@
                 alt="Maicon-CSS" 
                 width="40" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+            />
+            <img 
+                align="center" 
+                alt="Maicon-VueJS" 
+                width="40" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+            />
+            <img 
+                align="center" 
+                alt="Maicon-EJS" 
+                width="40" 
+                src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/icones/ejs.png"
+            />
+            <img 
+                align="center" 
+                alt="Maicon-Sass" 
+                width="40" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            />
+            <img 
+                align="center" 
+                alt="Maicon-Express" 
+                width="40" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
             />
             <img 
                 align="center" 
