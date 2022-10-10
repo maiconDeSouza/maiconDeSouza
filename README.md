@@ -7,8 +7,7 @@
 <main>
     <section>
         <p>
-            Estou estudano com o objetivo de fazer uma transição de carreira, e este são alguns 
-            conhecimentos que já tenho ou pretendo adquirir ou mesmo evoluir.
+            Estou estudando visando fazer uma transição de carreira, e este são alguns conhecimentos que já tenho ou pretendo adquirir, ou mesmo evoluir.
         </p>
         <ul>
             <li>
@@ -57,7 +56,7 @@
                     width="15" 
                     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/icones/ejs.png"
                 />
-                <span>Também já utiliziei o EJS para gerar front a partir do servidor.</span>
+                <span> Também já utilizei o EJS para gerar front a partir do servidor.</span>
             </li>
             <li>
                 <img 
@@ -102,7 +101,7 @@
                     width="15" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 />
-                <span>Tenho Conhecimento em Linux e Terminal. Já usei distribuições Base Debian, Base Red Hat e Arch</span>
+                <span>Tenho Conhecimento em Linux e Terminal. Já usei distribuições com Base Debian, Base Red Hat e Arch Linux.</span>
             </li>
         </ul>
     </section>
