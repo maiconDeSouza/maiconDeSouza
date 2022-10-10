@@ -95,6 +95,15 @@
                 />
                 <span>O TypeScript está no meu cronograma de estudos.</span>
             </li>
+            <li>
+                <img 
+                    align="center" 
+                    alt="Maicon-Linux" 
+                    width="15" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                />
+                <span>Tenho Conhecimento em Linux e Terminal. Já usei distribuições Base Debian, Base Red Hat e Arch</span>
+            </li>
         </ul>
     </section>
   <section>
@@ -172,6 +181,12 @@
                 alt="Maicon-Mongo" 
                 width="40" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+            />
+            <img 
+                align="center" 
+                alt="Maicon-Linux" 
+                width="40" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
             />
             <img 
                 align="right" 
