@@ -202,26 +202,27 @@
     <section>
         <div> 
             <a 
-                href = "mailto:maicon_souza09@hotmail.com">
+                href = "mailto:maicon_souza09@hotmail.com"
+                target="_blank"
+            >
                 <img 
                     src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" 
-                    target="_blank"
                 />
            </a>
             <a 
                 href="https://www.linkedin.com/in/maicon-pereira-de-souza-00b437253/" 
-                target="_blank">
+                target="_blank"
+            >
                 <img 
                     src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-                    target="_blank"
                 />
             </a>
             <a 
                 href="https://wa.me/5511968112981" 
-                target="_blank">
+                target="_blank"
+            >
                 <img 
                     src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=brightgreen" 
-                    target="_blank"
                 />
             </a>        
         </div>
