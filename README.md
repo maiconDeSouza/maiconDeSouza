@@ -92,7 +92,7 @@
                     width="15" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
                 />
-                <span>O TypeScript está no meu cronograma de estudos.</span>
+                <span>Conhecimento em TypeScript, mas ainda estou estudando para evoluir mais.</span>
             </li>
             <li>
                 <img 
