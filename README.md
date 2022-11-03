@@ -226,7 +226,7 @@
                 />
             </a>
             <a 
-                href="https://portfolio.maiconsouza.com.br/stacks" 
+                href="https://portfolio.maiconsouza.com.br" 
                 target="_blank"
             >
                 <img 
