@@ -201,7 +201,14 @@
 <footer>
     <section>
         <div> 
-            
+            <a 
+                href = "mailto:maicon_souza09@hotmail.com"
+                target="_blank"
+            >
+                <img 
+                    src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" 
+                />
+           </a>
             <a 
                 href="https://www.linkedin.com/in/maicon-pereira-de-souza-00b437253/" 
                 target="_blank"
