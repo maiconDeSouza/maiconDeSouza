@@ -198,48 +198,9 @@
     </section>
 </main>
   <hr/>
-<footer>
-    <section>
-        <div> 
-            <a 
-                href = "mailto:maicon_souza09@hotmail.com"
-                target="_blank"
-            >
-                <img 
-                    src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" 
-                />
-           </a>
-            <a 
-                href="https://www.linkedin.com/in/maicon-pereira-de-souza-00b437253/" 
-                target="_blank"
-            >
-                <img 
-                    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-                />
-            </a>
-            <a 
-                href="https://wa.me/5511968112981" 
-                target="_blank"
-            >
-                <img 
-                    src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=brightgreen" 
-                />
-            </a>
-            <a 
-                href="https://portfolio.maiconsouza.com.br" 
-                target="_blank"
-            >
-                <img 
-                    src="https://camo.githubusercontent.com/4cbbe1766c46cbcdb21dd764eddd7f1a30922bb05fce2dcd34f602fde634e79e/68747470733a2f2f692e696d6775722e636f6d2f4d796d413433492e706e67" 
-                />
-            </a>        
-        </div>
-    </section>
-    <section>
+  <section>
         <img 
             src="https://github.com/maiconDeSouza/maiconDeSouza/blob/output/github-contribution-grid-snake.svg" 
             alt="Snake Animado"
         />
     </section>
-</footer>
-
