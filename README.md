@@ -200,12 +200,6 @@
   <hr/>
 <footer>
     
-                <img 
-                    src="https://camo.githubusercontent.com/4cbbe1766c46cbcdb21dd764eddd7f1a30922bb05fce2dcd34f602fde634e79e/68747470733a2f2f692e696d6775722e636f6d2f4d796d413433492e706e67" 
-                />
-            </a>        
-        </div>
-    </section>
     <section>
         <img 
             src="https://github.com/maiconDeSouza/maiconDeSouza/blob/output/github-contribution-grid-snake.svg" 
@@ -213,4 +207,3 @@
         />
     </section>
 </footer>
-
