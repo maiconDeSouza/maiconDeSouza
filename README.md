@@ -9,14 +9,14 @@
 Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão algumas das tecnologias que já possuo conhecimento ou estou em processo de aprendizado:
 
 - HTML e CSS: Conhecimento sólido em HTML e CSS.
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg): Ótimo conhecimento em JavaScript.
-- ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg): Conhecimento em Sass.
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg): Constantemente evoluindo no aprendizado de TypeScript.
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg): Bom conhecimento em Node.js e criação de APIs com os frameworks Express.js e Fastify. Estudando para me aprofundar mais na trilha de Node.js.
-- Tecnologias utilizadas em projetos próprios e nos desafios da Rocketseat: ![Zod](https://excalidraw.com/assets/icons/logos/zod.svg), ![Prisma](https://github.com/prisma/prisma/blob/master/docs/assets/prisma_logo.svg), ![JWT](https://jwt.io/img/pic_logo.svg).
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20">: Ótimo conhecimento em JavaScript.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="20" height="20">: Conhecimento em Sass.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="20" height="20">: Constantemente evoluindo no aprendizado de TypeScript.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20">: Bom conhecimento em Node.js e criação de APIs com os frameworks Express.js e Fastify. Estudando para me aprofundar mais na trilha de Node.js.
+- Tecnologias utilizadas em projetos próprios e nos desafios da Rocketseat: <img src="https://excalidraw.com/assets/icons/logos/zod.svg" alt="Zod" width="20" height="20">, <img src="https://github.com/prisma/prisma/blob/master/docs/assets/prisma_logo.svg" alt="Prisma" width="20" height="20">, <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="20" height="20">.
 - Banco de dados: Tenho conhecimento em MongoDB e estou começando a estudar SQL, especialmente o PostgreSQL, além de já ter trabalhado com SQLite.
 - Linux: Tenho conhecimento em distribuições Linux com base em Debian e Arch Linux.
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg): Conhecimento em Docker e Docker Compose, com foco em estudo contínuo.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20">: Conhecimento em Docker e Docker Compose, com foco em estudo contínuo.
 - React.js e Vue.js: Apesar de ter algum conhecimento em React.js e Vue.js, estou planejando começar a trilha de React.js após finalizar a trilha de Node.js.
 
 ---
@@ -43,22 +43,20 @@ Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão alguma
 <div>
   <img 
     align="center" 
-    alt="Maicon-Js" 
+    alt="Maicon-LinkedIn" 
     width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
   />
-  <img 
-    align="center" 
-    alt="Maicon-Ts" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-  />
-  <img 
-    align="center" 
-    alt="Maicon-React" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
+  <a href="https://www.linkedin.com/in/maicon-de-souza-ferreira/">
+    LinkedIn
+  </a>
+</div>
+
+---
+
+## Tecnologias
+
+<div>
   <img 
     align="center" 
     alt="Maicon-HTML" 
@@ -73,15 +71,9 @@ Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão alguma
   />
   <img 
     align="center" 
-    alt="Maicon-VueJS" 
+    alt="Maicon-JavaScript" 
     width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-  />
-  <img 
-    align="center" 
-    alt="Maicon-EJS" 
-    width="40" 
-    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/icones/ejs.png"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
   <img 
     align="center" 
@@ -91,13 +83,19 @@ Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão alguma
   />
   <img 
     align="center" 
-    alt="Maicon-Express" 
+    alt="Maicon-TypeScript" 
     width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   />
   <img 
     align="center" 
-    alt="Maicon-Mongo" 
+    alt="Maicon-Node.js" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-MongoDB" 
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
   />
@@ -108,16 +106,57 @@ Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão alguma
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
   />
   <img 
-    align="right" 
-    alt="Dev-pic" 
-    height="150" 
-    style="border-radius: 50px;" 
-    src="https://images.unsplash.com/photo-1528901166007-3784c7dd3653?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    align="center" 
+    alt="Maicon-Docker" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-React" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-VueJS" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-Express" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-Prisma" 
+    width="40" 
+    src="https://github.com/prisma/prisma/blob/master/docs/assets/prisma_logo.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-JWT" 
+    width="40" 
+    src="https://jwt.io/img/pic_logo.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-Zod" 
+    width="40" 
+    src="https://excalidraw.com/assets/icons/logos/zod.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-PostgreSQL" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+  />
+  <img 
+    align="center" 
+    alt="Maicon-SQLite" 
+    width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
   />
 </div>
-
----
-
-## Contribuições
-
-![Snake Animado](https://github.com/maiconDeSouza/maiconDeSouza/blob/output/github-contribution-grid-snake.svg)
