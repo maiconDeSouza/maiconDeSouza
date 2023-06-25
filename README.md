@@ -8,27 +8,27 @@
 
 Estou estudando na Rocketseat, focado na trilha de Node.js. Abaixo estão algumas das tecnologias que já possuo conhecimento ou estou em processo de aprendizado:
 
-- HTML e CSS: Conhecimento sólido em HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="20"> e CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="20" >.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" height="20" > HTML e CSS: Conhecimento sólido em HTML  e CSS.
 
-- Ótimo conhecimento em JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="20"> Ótimo conhecimento em JavaScript.
 
-- Conhecimento em Sass <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="20"> Conhecimento em Sass.
 
-- Constantemente evoluindo no aprendizado de TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="20"> Constantemente evoluindo no aprendizado de TypeScript.
 
-- Bom conhecimento em Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"> e criação de APIs com os frameworks Express.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="20"> e Fastify <img src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png" alt="fastify" height="20">. 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="20"> <img src="https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png" alt="fastify" height="20"> Bom conhecimento em Node.js e criação de APIs com os frameworks Express.js e Fastify. 
 
-Estudando para me aprofundar mais na trilha de Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20">.
+Estudando para me aprofundar mais na trilha de Node.js.
 
-- Tecnologias utilizadas em projetos próprios e nos desafios da Rocketseat: zod <img src="https://zod.dev/logo.svg" alt="Zod" height="20" >, prisma <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" height="20">,  jwt <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" height="20">.
+- <img src="https://zod.dev/logo.svg" alt="Zod" height="20" > <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" height="20"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" height="20"> Tecnologias utilizadas em projetos próprios e nos desafios da Rocketseat: zod, prisma,  jwt.
 
-- Banco de dados: Tenho conhecimento em MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="20">e estou começando a estudar SQL, especialmente o PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PstgreSQL" height="20">, além de já ter trabalhado com SQLite <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PstgreSQL" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="20"> Banco de dados: Tenho conhecimento em MongoDB e estou começando a estudar SQL, especialmente o PostgreSQL, além de já ter trabalhado com SQLite.
 
-- Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="20">: Tenho conhecimento em distribuições Linux com base em Debian <img src="https://www.debian.org/Pics/openlogo-50.png" alt="Debian" height="20"> e Arch Linux <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="20"> <img src="https://www.debian.org/Pics/openlogo-50.png" alt="Debian" height="20"> <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="20"> Linux: Tenho conhecimento em distribuições Linux com base em Debian e Arch Linux.
 
-- Conhecimento em Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="20"> e Docker Compose, com foco em estudo contínuo.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="20"> Conhecimento em Docker e Docker Compose, com foco em estudo contínuo.
 
-- React.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" height="20"> e Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="20">: Apesar de ter algum conhecimento em React.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" height="20"> e Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="20">, estou planejando começar a trilha de React.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" height="20"> após finalizar a trilha de Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20">.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" height="20"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="20"> React.js e Vue.js: Apesar de ter algum conhecimento em React.js  e Vue.js, estou planejando começar a trilha de React.js  após finalizar a trilha de Node.js.
 
 ---
 
